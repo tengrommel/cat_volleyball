@@ -1,0 +1,4 @@
+(
+  title: "cat_volleyball",
+  dimensions: Some((700, 500)),
+)
